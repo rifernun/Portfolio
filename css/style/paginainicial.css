@@ -1,0 +1,136 @@
+*{
+    margin:0;
+    padding: 0;
+}
+header{
+    font-size: 23px;
+}
+
+.main{
+    background: #f8f9fa;
+    width: 100%;
+    height: 100%;
+}
+.main-content{
+    width: 50vw;
+    padding: 80px;
+}
+
+h1{
+    font-size: 50px;
+    margin-bottom: 20px;
+    font-weight: 900;
+    color: #751b40;
+}
+h2{
+    
+    font-weight: 900;
+    font-size: 25px;
+    color:  #751b40;
+}
+
+h3{
+    font-size: 25px;
+    font-weight: 900;
+    color: #751b40;
+}
+h4{
+    font-size: 25px;
+    font-weight: 800;
+    color:  #751b40;
+}
+
+p{
+    margin-top:20px;
+    font-size: 10px;
+    margin-bottom:20px;
+
+}
+
+
+.second-content h1{
+    text-align: center; 
+    position: relative;* {
+        margin: 0;
+        padding: 0;
+    }
+    
+    h1 {
+        font-size: 50px;
+        margin-bottom: 20px;
+        font-weight: 900;
+        color: #751b40;
+    }
+    
+    h2 {
+        font-weight: 900;
+        font-size: 25px;
+        color: #751b40;
+    }
+    
+    .card {
+        background-color: #ffffff;
+        border-radius: 15px;
+        box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    
+    .card-body {
+        padding: 20px;
+    }
+    
+    .img-fluid {
+        margin-top: 10px;
+        margin-bottom: 10px;
+    }
+    
+    .subtitle {
+        margin-bottom: 40px;
+    }
+    
+    top: 50px;
+
+}
+
+i{
+  font-size: 50px;
+  margin: 25px;
+}
+.col{
+    margin-left:15px;
+    position: relative;
+    top: 80px;
+    z-index: 2;
+    background-color: #ffffff;
+    border-radius: 35px;
+    height: 4200px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+}
+
+
+.col1{
+    margin-left:15px;
+    position: relative;
+    top: 80px;
+    z-index: 2;
+    background-color: #ffffff;
+    border-radius: 25px;
+    height: 4730px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
+    margin-bottom: 30px;
+}
+
+.second-content p{
+    font-size: 18px;
+}
+
+.waveimg{
+    position: relative;
+    left: 0px;
+    z-index: 1;
+}
+
+img{
+    margin: 5px;
+}
+
