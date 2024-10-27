@@ -103,6 +103,7 @@ i{
     background-color: #ffffff;
     border-radius: 35px;
     height: 4300px;
+    max-width: 4300px;
     box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.2);
     margin-bottom: 30px;
 }
